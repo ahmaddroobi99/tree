@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sylva",
+      "hasCanvas": true,
+      "bodyTextLen": 188,
+      "bodyTextHash": "8cdfcc1fdcc0cbe2310137fb7fdcde88cf638859671ceec4eee1ef42da5b4329",
+      "bodyTextPrefix": "Sylva Generative trees Grow Shape the tree, then let the wind mo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sylva",
+      "hasCanvas": true,
+      "bodyTextLen": 22,
+      "bodyTextHash": "1c0147d442f391baaf00bb1e83d75ed844459ec07c60d96d18281a4a31de8ed3",
+      "bodyTextPrefix": "Sylva Generative trees",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
